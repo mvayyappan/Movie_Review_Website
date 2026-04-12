@@ -57,7 +57,7 @@ h1 {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
 }
-.movie img {
+.img {
   width: 250px;
   height: 400px;
 }
