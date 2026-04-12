@@ -30,15 +30,13 @@ body
     font-size: 20px;
 }
 .container img{
-    border-radius: 50px;
+    border-radius: 30px;
     padding: 20px
 }
-.what h2{
-    color: aliceblue;
-    background-color: black;
-    text-align: center;
-    font-size:50px;
-    padding: 30px;
-    margin-top: 0px;
+.content h2 {
+    padding-top: 70px;
 }
 
+.content h3 {
+    padding-top: 70px;
+}
